@@ -19,7 +19,7 @@ We create immersive educational and enlightening films that explore the "depth o
 ### 1. The Demon: A Lermontov Scholar's Perspective
 A comprehensive analysis of Lermontov’s masterpiece, its connection to Vrubel’s paintings, and its philosophical roots in biblical and oriental legends.
 * [Read the English Translation here](./Lermontov-Demon.md)
-* [Watch on YouTube]([https://www.youtube.com/@Lukina-Tver](https://www.youtube.com/@lukinatver/videos)) (Update with your specific link)
+* [Watch on YouTube]([https://www.youtube.com/@lukinatver/videos]) (Update with your specific link)
 
 ### 2. The Angel's Chorale
 A spiritual journey through Lermontov’s "Angel," featuring the music of Evgeny Sokolovsky and the voice of the Lermontov lineage.
