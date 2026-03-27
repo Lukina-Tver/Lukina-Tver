@@ -45,8 +45,8 @@ A strategic look at global educational systems (Finland, Switzerland, Turkey) an
 We are open to international collaborations with cultural institutions, universities, and educators who value deep conceptual thinking and the "Instructional Word."
 
 **Contact & Support:**
-* 📺 [YouTube Channel](https://www.youtube.com/@Lukina-Tver)
-* 📬 [Inquiries](mailto:your-email@example.com) (Please replace with your preferred contact)
+* 📺 [YouTube Channel](https://www.youtube.com/@lukinatver/videos)
+* 📬 [Inquiries](mailto:rsccstc@gmail.com) (Please replace with your preferred contact)
 
 ---
 *Built with passion for culture and the power of AI.*
