@@ -1,4 +1,4 @@
-# Aesthetics of Education & AI Video Studio 🎬
+# Video Studio «Aesthetics of Education» & AI 🎬
 
 Welcome to the official repository of **Olga Lukina**, PhD in Philosophy and head of the "Aesthetics of Education" video studio (Tver, Russia). 
 
